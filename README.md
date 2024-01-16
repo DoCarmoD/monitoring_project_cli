@@ -1,7 +1,8 @@
 # Dashboard Monitoring CLI
 # Requisitos
 * psutil
-* py-dashing 
+* py-dashing
+* Ubuntu
 
 # Como baixar
 
